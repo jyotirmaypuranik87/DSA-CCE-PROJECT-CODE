@@ -1,6 +1,4 @@
-##  Project Title
-
-Polynomial Calculator Using Linked List in C++
+##  Polynomial Calculator Using Linked List in C++
 
 ##  Problem Statement
 
